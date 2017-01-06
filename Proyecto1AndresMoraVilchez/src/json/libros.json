@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "El mito de Sísifo",
+        "author": "Albert Camus",
+        "language": "Español",
+        "publisher": "Éditions Gallimard",
+        "price": "20000",
+        "published": "Enero, 1942",
+        "cover": "libros/AC.png"
+        },
+    {
+        "id": "2",
+        "title": "El Principito",
+        "author": "Antoine de Saint-Exupéry",
+        "language": "Español",
+        "publisher": "Éditions Gallimard",
+        "price": "10000",
+        "published": "Abril, 1943",
+        "cover": "libros/AS.png"
+        },
+    {
+        "id": "3",
+        "title": "Gentes y Gentecillas",
+        "author": "Carlos Luis Fallas",
+        "language": "Español",
+        "publisher": "Editorial Costa Rica",
+        "price": "9000",
+        "published": "Septiembre, 1947",
+        "cover": "libros/CF.png"
+        },
+    {
+        "id": "4",
+        "title": "Las venas abiertas de América Latina",
+        "author": "Eduardo Galeano",
+        "language": "Español",
+        "publisher": "Monthly Review",
+        "price": "15000",
+        "published": "Marzo, 1971",
+        "cover": "libros/EG.png"
+    },
+    {
+        "id": "5",
+        "title": "Patas arriba: Escuela del mundo al revés",
+        "author": "Eduardo Galeano",
+        "language": "Español",
+        "publisher": "Macchi",
+        "price": "12000",
+        "published": "Febrero, 1998",
+        "cover": "libros/EG2.png"
+    },
+    {
+        "id": "6",
+        "title": "El Túnel",
+        "author": "Ernesto Sábato",
+        "language": "Español",
+        "publisher": "Editorial Sudamericana",
+        "price": "16000",
+        "published": "Diciembre, 1948",
+        "cover": "libros/ES.png"
+    },
+    {
+        "id": "7",
+        "title": "Así habló Zaratustra",
+        "author": "Friedrich Nietzsche",
+        "language": "Español",
+        "publisher": "Editorial Ernest Schmeitzner",
+        "price": "27000",
+        "published": "Marzo, 1883",
+        "cover": "libros/FN.png"
+    },
+    {
+        "id": "8",
+        "title": "Doce cuentos peregrinos",
+        "author": "Gabriel García Márquez",
+        "language": "Español",
+        "publisher": "Editorial Sudamericana",
+        "price": "8000",
+        "published": "Octubre, 1997",
+        "cover": "libros/GM1.png"
+    },
+    {
+        "id": "9",
+        "title": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "language": "Español",
+        "publisher": "Editorial Sudamericana",
+        "price": "28000",
+        "published": "Junio, 1967",
+        "cover": "libros/GM2.png"
+    }
+]
